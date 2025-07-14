@@ -1,0 +1,80 @@
+{
+  "users": [
+    {
+      "id": "cbb2",
+      "name": "asd",
+      "userName": "asd",
+      "email": "asdasd@gmail.com",
+      "password": "asdasd",
+      "rolId": 1
+    },
+    {
+      "id": "440a",
+      "name": "asddas",
+      "userName": "asdasd",
+      "email": "asdassd@gmail.com",
+      "password": "asdas",
+      "rolId": 2
+    },
+    {
+      "id": "8149",
+      "name": "maikol salas",
+      "userName": "maik17",
+      "email": "da@gmail.com",
+      "password": "asdsd",
+      "rolId": 2
+    },
+    {
+      "id": "436d",
+      "name": "asdasd",
+      "userName": "dsffsdfs",
+      "email": "daa@gmail.com",
+      "password": "asdasd",
+      "rolId": 2
+    },
+    {
+      "id": "0feb",
+      "name": "asdsad",
+      "userName": "asdsasd",
+      "email": "asdaasds@gmail.com",
+      "password": "dasdasd",
+      "rolId": 2
+    }
+  ],
+  "pets": [
+    {
+      "id": "cb54",
+      "name": "asdd",
+      "type": "sadsd",
+      "ownerId": "440a"
+    },
+    {
+      "id": "7905",
+      "name": "asdasdasd",
+      "type": "weqwe",
+      "ownerId": "440a"
+    },
+    {
+      "id": "34d7",
+      "name": "asdasd",
+      "type": "asdasd",
+      "ownerId": "0feb"
+    }
+  ],
+  "stays": [
+    {
+      "id": "b0ed",
+      "petId": "cb54",
+      "workerId": "cbb2",
+      "startDate": "2025-07-10",
+      "endDate": "2025-07-17"
+    },
+    {
+      "id": "cd49",
+      "petId": "cb54",
+      "workerId": "cbb2",
+      "startDate": "2025-07-02",
+      "endDate": "2025-07-10"
+    }
+  ]
+}

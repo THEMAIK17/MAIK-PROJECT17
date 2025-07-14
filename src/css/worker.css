@@ -1,0 +1,40 @@
+/* Estilos para el dashboard del trabajador */
+.dashboard-worker {
+  padding: 2rem;
+  background-color: #f0f8ff;
+  font-family: Arial, sans-serif;
+}
+
+.pet-card {
+  border: 1px solid #ccc;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  border-radius: 8px;
+  background-color: #ffffff;
+}
+
+.pet-card strong {
+  font-size: 1.2rem;
+}
+
+.stay-form {
+  margin-top: 1rem;
+}
+
+.stay-form input[type="date"] {
+  margin: 0.5rem 0;
+  padding: 0.4rem;
+}
+
+.stay-form button {
+  padding: 0.5rem 1rem;
+  background-color: #0077cc;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.stay-form button:hover {
+  background-color: #005fa3;
+}
